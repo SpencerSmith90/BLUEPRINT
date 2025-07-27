@@ -1,6 +1,0 @@
-deck-drawing-api/
-├── main.py
-├── drawing_generator.py
-├── requirements.txt
-└── public/
-    └── drawings/
